@@ -13,8 +13,8 @@
         "Acme::ShellGeiBotR": "lib/Acme/ShellGeiBotR.pm6"
     },
     "depends": [
-        "JSON::Tiny",
-        "cro"
+        "cro",
+        "Log::Async"
     ],
     "build-depends": [],
     "test-depends": [],
