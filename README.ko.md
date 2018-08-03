@@ -4,14 +4,14 @@ ShellGeiBotR - yet another シェル芸bot
 
 # DESCRIPTION 
 
-Twitterのシェル芸bot(theoldmoon0602氏作)のyet another的なPerl6実装です。
+Twitter의 셸 예능(シェル芸bot)의 또 다른 Perl6 구현입니다.
 
 
 # ISSUES / TO-DOS
 
-* セキュリティ的にヤバイので問題が解決されるまでproductionで使うのはすこし注意してね
+* 보안 이슈가 있습니다. 해결될 때 까지는 프로덕션 환경에서 사용을 권장하지 않습니다.
 
-* 画像投稿に未対応; 
+* Twitter 봇에 있던 이미지 업로드 기능이 구현되어 있지 않습니다.
 
 # AUTHOR / LICENSE
 
