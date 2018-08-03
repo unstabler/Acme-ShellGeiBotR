@@ -4,7 +4,7 @@ ShellGeiBotR - yet another シェル芸bot
 
 # DESCRIPTION 
 
-Twitterのシェル芸bot(theoldmoon0602氏作)のyet another的なPerl6実装です。
+[Twitterのシェル芸bot](https://twitter.com/minyoruminyon)(theoldmoon0602氏作)のyet another的なPerl6実装です。
 
 
 # ISSUES / TO-DOS

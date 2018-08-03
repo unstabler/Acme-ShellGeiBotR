@@ -4,7 +4,7 @@ ShellGeiBotR - yet another シェル芸bot
 
 # DESCRIPTION 
 
-Twitter의 셸 예능(シェル芸bot)의 또 다른 Perl6 구현입니다.
+[Twitter의 셸 예능(シェル芸bot)](https://twitter.com/minyoruminyon)의 또 다른 Perl6 구현입니다.
 
 
 # ISSUES / TO-DOS
