@@ -13,6 +13,10 @@ ShellGeiBotR - yet another シェル芸bot
 
 * Twitter 봇에 있던 이미지 업로드 기능이 구현되어 있지 않습니다.
 
+* 자동 맞팔로우 구현하고 싶다
+
+* CW/NSFW 존중
+
 # AUTHOR / LICENSE
 
 * Gyuhwan Park (doping.cheese@gmail.com) / [@cheesekun@twingyeo.kr](https://twingyeo.kr/@cheesekun)

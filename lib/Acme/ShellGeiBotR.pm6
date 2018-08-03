@@ -43,12 +43,14 @@ class ShellGei {
         sleep $timeout;
         
         $process.kill(9);
-        await $promise;
+        my $exitcode = (await $promise).exitcode;
+
+        # TODO: return code 확인 후 0이 아니면 포스트 저지
 
         return Tootable.new(
             status => sprintf("@%s %s\n%s", $!toot<account><acct>, $stdout, $!toot<uri>),
             in-reply-to-id => $!reply-to
-        ) if $stdout;
+        ) if $stdout && $exitcode == 0;
     }
 }
 

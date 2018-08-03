@@ -13,6 +13,10 @@ ShellGeiBotR - yet another シェル芸bot
 
 * 画像投稿に未対応; 
 
+* 自動フォロバしたい
+
+* CW/NSFWをrespectするようにしたい
+
 # AUTHOR / LICENSE
 
 * Gyuhwan Park (doping.cheese@gmail.com) / [@cheesekun@twingyeo.kr](https://twingyeo.kr/@cheesekun)
