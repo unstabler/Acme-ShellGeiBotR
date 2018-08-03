@@ -1,0 +1,26 @@
+{
+    "perl": "6.c",
+    "name": "Acme::ShellGeiBotR",
+    "auth": "github:unstabler",
+    "api": "1",
+    "version": "0.0.1",
+    "description": "",
+    "authors": [
+        "Gyuhwan Park (cheesekun★)"
+    ],
+    "license": "Artistic-2.0",
+    "provides": {
+        "Acme::ShellGeiBotR": "lib/Acme/ShellGeiBotR.pm6"
+    },
+    "depends": [
+        "JSON::Tiny",
+        "cro"
+    ],
+    "build-depends": [],
+    "test-depends": [],
+    "resources": [],
+    "tags": [
+        "Acme"
+    ],
+    "source-url": "git://github.com/unstabler/Acme-ShellGeiBotR.git"
+}
