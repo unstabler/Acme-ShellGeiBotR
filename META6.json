@@ -14,6 +14,9 @@
     },
     "depends": [
         "cro",
+        "HTML::Escape",
+        "XML",
+        "Digest",
         "Log::Async"
     ],
     "build-depends": [],
